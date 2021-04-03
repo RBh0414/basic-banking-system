@@ -1,4 +1,4 @@
-# Basic-Banking-System-
+# Basic-Banking-System
 
 ## Introduction
 >  ### Project - Basic Banking System
